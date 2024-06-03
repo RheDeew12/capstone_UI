@@ -1,4 +1,4 @@
-package com.dicoding.pneumuvision.email
+package com.dicoding.pneumuvision.ui.email
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

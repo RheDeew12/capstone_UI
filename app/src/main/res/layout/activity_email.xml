@@ -6,7 +6,7 @@
     android:id="@+id/email"
     android:layout_height="match_parent"
     android:background="#FFFFFF"
-    tools:context=".email.EmailActivity">
+    tools:context=".ui.email.EmailActivity">
 
     <ScrollView
         android:layout_width="match_parent"
